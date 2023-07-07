@@ -1,5 +1,5 @@
 
-![Image](https://github.com/ezman1105/Data-Scientist----RecommendationsWithIBM/blob/43a1e2eb17fdd4ba1fd96caa565d82514ebb8ff8/Images/pexels-oleksandr-canary-islands-319930.jpeg))
+![Image](https://github.com/ezman1105/Data-Scientist----RecommendationsWithIBM/blob/43a1e2eb17fdd4ba1fd96caa565d82514ebb8ff8/Images/pexels-oleksandr-canary-islands-319930.jpeg)
 
 # Project -- Recommendations with IBM
 Udacity Data Scientist Nanodegree - Recommendation with IBM
