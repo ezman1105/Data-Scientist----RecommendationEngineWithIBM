@@ -32,11 +32,11 @@ Supporting documents
 
 ## Content
 
-I. Exploratory Data Analysis
-II. Rank Based Recommendations
-III. User-User Based Collaborative Filtering
-IV. Content Based Recommendations (EXTRA - NOT REQUIRED)
-V. Matrix Factorization
+I. Exploratory Data Analysis <br>
+II. Rank Based Recommendations <br>
+III. User-User Based Collaborative Filtering <br>
+IV. Content Based Recommendations (EXTRA - NOT REQUIRED) <br>
+V. Matrix Factorization <br>
 
 ## Conclusion
 
