@@ -1,4 +1,6 @@
 
+![Image](https://github.com/ezman1105/Data-Scientist----RecommendationsWithIBM/blob/bfd803541522459910638b65e35d4f023e28c8f7/Images/pexels-pixabay-270637.jpeg)
+
 # Project -- Recommendations with IBM
 Udacity Data Scientist Nanodegree - Recommendation with IBM
 
@@ -48,9 +50,9 @@ It's hard to jump into conclusion that SVD is a reliable recommendation engine i
 ## Screenshots
 
 <Screenshot> Distribution of Articles & Users
-![image](https://github.com/ezman1105/Data-Scientist----RecommendationsWithIBM/blob/471fcd555d1a476ee80ac97a53844a3a8468d59b/Images/Distribution%20of%20Article%20%26%20user.png)
+![image](https://github.com/ezman1105/Data-Scientist----RecommendationsWithIBM/blob/fd27de75972eebffb6a01d24e76a4ae705626254/Images/Distribution%20of%20Article%20%26%20user.png)
 
 <Screenshot> Accuracy vs. Number of Latent Features
-![image](https://github.com/ezman1105/Data-Scientist----RecommendationsWithIBM/blob/471fcd555d1a476ee80ac97a53844a3a8468d59b/Images/Accuracy%20vs.%20Number%20of%20Latent%20Features.png)
+![image](https://github.com/ezman1105/Data-Scientist----RecommendationsWithIBM/blob/fd27de75972eebffb6a01d24e76a4ae705626254/Images/Accuracy%20vs.%20Number%20of%20Latent%20Features.png)
 
 
