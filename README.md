@@ -49,10 +49,10 @@ It's hard to jump into conclusion that SVD is a reliable recommendation engine i
 
 ## Screenshots
 
-<Screenshot> Distribution of Articles & Users
+Screenshot -- Distribution of Articles & Users
 ![image](https://github.com/ezman1105/Data-Scientist----RecommendationsWithIBM/blob/fd27de75972eebffb6a01d24e76a4ae705626254/Images/Distribution%20of%20Article%20%26%20user.png)
 
-<Screenshot> Accuracy vs. Number of Latent Features
+Screenshot -- Accuracy vs. Number of Latent Features
 ![image](https://github.com/ezman1105/Data-Scientist----RecommendationsWithIBM/blob/fd27de75972eebffb6a01d24e76a4ae705626254/Images/Accuracy%20vs.%20Number%20of%20Latent%20Features.png)
 
 
