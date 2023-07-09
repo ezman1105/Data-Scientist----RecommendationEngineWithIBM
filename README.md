@@ -21,8 +21,8 @@ Please refer to 'requirement.txt' for details
 
 ## File Discription
 
-1. data/**user-item-interactions.csv** -> Dataframe includes includes information of article id, title of article, and email
-2. data/**articles_community.csv** --> Dataframe includes contains columns such as id, descriptions, status, full name of articles
+1. Data/**user-item-interactions.csv** -> Dataframe includes includes information of article id, title of article, and email
+2. Data/**articles_community.csv** --> Dataframe includes contains columns such as id, descriptions, status, full name of articles
 3. **Recommendations_with_IBM.ipynb** --> Jupyter notebook containing main implementation and analysis
 
 Supporting documents
